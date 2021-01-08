@@ -1,4 +1,4 @@
-![Metrics](https://github.com/iamduncan/iamduncan/blob/master/github-metrics.svg)
+![Metrics](https://github.com/iamduncan/iamduncan/blob/main/github-metrics.svg)
 <!--
 **iamduncan/iamduncan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
