@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Metrics](https://metrics.lecoq.io/iamduncan?template=classic&isocalendar=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=full-year&config.timezone=Europe%2FLondon)
 <!--
 **iamduncan/iamduncan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
